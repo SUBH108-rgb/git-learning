@@ -6,3 +6,5 @@ console.log(login)
 
 const footer="Include footer";
 console.log(footer);
+let payment="Include payment method";
+console.log(payment);
