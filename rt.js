@@ -8,3 +8,6 @@ const footer="Include footer";
 console.log(footer);
 let payment="Include payment method";
 console.log(payment);
+
+let upi="include upi method";
+console.log(upi);
